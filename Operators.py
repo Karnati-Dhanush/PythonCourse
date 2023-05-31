@@ -1,0 +1,10 @@
+num1=3,num2=9
+print("num1<num2")
+print("num1>num2")
+print("num1=num2")
+print("num1>=num2")
+print("num1<=num2")
+print("num1 is num2")
+print("num1 is not num2")
+print("num1==num2")
+print("num1!=num2")

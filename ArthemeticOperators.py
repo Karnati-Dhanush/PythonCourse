@@ -1,0 +1,12 @@
+print("the result of 2+3 is %i" % (2+3))
+print("the result of 6+3 is %i" % (6+3))
+print("the result of 9-3 is %i" % (9-3))
+print("the result of 8-3 is %i" % (8-3))
+print("the result of 2*3 is %i" % (2*3))
+print("the result of 8*3 is %i" % (8*3))
+print("the result of 78/7 is %f" % (78/7))
+print("the result of 85/4 is %f" % (85/4))
+print("the result of 78//7 is %f" % (78//7))
+print("the result of 85//4 is %f" % (85//4))
+print("the result of 5 %% 2 is %i" % (5 % 2))
+
